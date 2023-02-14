@@ -1,0 +1,7 @@
+{
+    "scheduler": {
+        "serviceAccount": "SERVICE_ACCOUNT@PROJECT.iam.gserviceaccount.com"
+        
+    }
+}
+
